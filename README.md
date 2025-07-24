@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @SaraMTownsend87
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning AWS
-- 💞️ I’m looking to collaborate on ...
+- 👀 I'm a Data Analysis
 - 📫 How to reach me by email at saratownsend87@gmail.com
 - Linkedin http://www.linkedin.com/in/saratownsend87
 
