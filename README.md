@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SaraMTownsend87
+- 👋 Hi, I’m Sara Townsend
 - 👀 I'm a Data Analysis
 - 💪 Welcome to my portfolio. Please enjoy some of the project I have worked on.
 - 📫 How to reach me by email at saratownsend87@gmail.com
